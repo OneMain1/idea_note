@@ -1,0 +1,43 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.*.sw[a-z]
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+~$*
+.~*
+
+# Personal drafts and private notes
+drafts/
+private/
+*.draft.md
+*.private.md
+
+# Node modules (if using any tools)
+node_modules/
+npm-debug.log*
+
+# Python (if using any scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Claude local configuration
+.claude/CLAUDE.local.md
