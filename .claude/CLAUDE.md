@@ -22,8 +22,10 @@ idea_note/
 └── topics/                      # 주제별 노트
     ├── growth/                  # 성장, 자기계발
     │   └── thought-and-speech.md
-    └── productivity/            # 생산성, 효율성
-        └── effective-interview.md
+    ├── productivity/            # 생산성, 효율성
+    │   └── effective-interview.md
+    └── tech/                    # 기억하고 싶은 기술적 교훈
+        └── long-context-extension.md
 ```
 
 ## 카테고리 가이드
