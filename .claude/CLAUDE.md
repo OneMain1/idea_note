@@ -25,7 +25,8 @@ idea_note/
     ├── productivity/            # 생산성, 효율성
     │   └── effective-interview.md
     └── tech/                    # 기억하고 싶은 기술적 교훈
-        └── long-context-extension.md
+        ├── long-context-extension.md
+        └── dont-trust-easy-signals.md
 ```
 
 ## 카테고리 가이드
