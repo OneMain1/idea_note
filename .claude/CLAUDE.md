@@ -26,7 +26,8 @@ idea_note/
     │   └── effective-interview.md
     └── tech/                    # 기억하고 싶은 기술적 교훈
         ├── long-context-extension.md
-        └── dont-trust-easy-signals.md
+        ├── dont-trust-easy-signals.md
+        └── learning-at-the-edge.md
 ```
 
 ## 카테고리 가이드
